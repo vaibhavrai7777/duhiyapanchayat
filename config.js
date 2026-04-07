@@ -34,7 +34,7 @@ const CONFIG = {
   officeHours: { hi: "सोम–शनि: प्रातः 9 बजे – सायं 5 बजे", en: "Mon–Sat: 9 AM – 5 PM" },
 
   /* ── 6. PORTAL PASSWORD — CHANGE THIS! ─────────────── */
-  portalPassword: "7982181475",
+  portalPassword: "duhiya2026",
 
   /* ── 7. AI / CLOUD ─────────────────────────────────── */
   anthropicApiKey: "",          // Only for local testing. Empty = use proxy below.
