@@ -28,7 +28,7 @@ const CONFIG = {
   },
 
   /* ── 4. MAP — Duhiya village, Zamania block, Ghazipur ── */
-  map: { lat: 25.5668, lng: 83.5423 },
+  map: { lat: 25.4196, lng: 83.5579 },
 
   /* ── 5. OFFICE HOURS ───────────────────────────────── */
   officeHours: { hi: "सोम–शनि: प्रातः 9 बजे – सायं 5 बजे", en: "Mon–Sat: 9 AM – 5 PM" },
