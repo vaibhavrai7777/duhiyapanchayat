@@ -72,7 +72,7 @@ Edit `pradhan:` and `sahayak:` objects in `js/config.js`.
 
 ---
 
-## 🌐 Deploy to Netlify (Free Hosting)
+##  Deploy to Netlify (Free Hosting)
 
 ### Step 1: Push to GitHub
 ```bash
@@ -100,7 +100,7 @@ git push -u origin main
 
 ---
 
-## 🛠️ Features
+##  Features
 
 | Feature | Description |
 |---------|-------------|
