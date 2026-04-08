@@ -1,12 +1,12 @@
-# 🏛️ दुहिया ग्राम पंचायत Website
+#  दुहिया ग्राम पंचायत Website
 
 **Gram Pradhan:** Vineet Rai (8303049123)  
 **Pradhan Sahayak:** Akash Rai (7982181475)  
-**Location:** Duhia, Jawania, Ghazipur, UP — 233001
+**Location:** Duhia, zamania, Ghazipur, UP — 233001
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 duhia-panchayat/
@@ -14,7 +14,7 @@ duhia-panchayat/
 ├── css/
 │   └── style.css           ← All styles (edit for design changes)
 ├── js/
-│   ├── config.js           ← ⭐ EDIT THIS to change content
+│   ├── config.js           ← EDIT THIS to change content
 │   └── main.js             ← All JavaScript logic
 ├── assets/
 │   └── photos.js           ← Embedded photos (auto-generated)
@@ -27,7 +27,7 @@ duhia-panchayat/
 
 ---
 
-## ⚡ Quick Start (Local)
+##  Quick Start (Local)
 
 1. **Open in VS Code:**
    ```
@@ -42,7 +42,7 @@ duhia-panchayat/
 
 ---
 
-## ✏️ How to Edit Content
+##  How to Edit Content
 
 **ALL content is controlled from one file: `js/config.js`**
 
@@ -104,29 +104,28 @@ git push -u origin main
 
 | Feature | Description |
 |---------|-------------|
-| 🌐 Bilingual | Full Hindi + English toggle |
-| 🖱️ Physics Cursor | Spring-physics custom cursor |
-| ✨ Particles | Interactive particle physics hero |
-| 🏘️ 3D Village | Three.js animated village scene |
-| 💬 Complaint System | File, track, manage complaints |
-| 🤖 AI Assistant | Claude-powered panchayat assistant |
-| 🏛️ Pradhan Portal | Password-protected dashboard |
-| 📊 CSV Export | Download all complaints as spreadsheet |
-| 📱 Mobile Ready | Works on all screen sizes |
-| 🗺️ Real Map | Actual Ghazipur/Duhia coordinates |
+|  Bilingual | Full Hindi + English toggle |
+|  Physics Cursor | Spring-physics custom cursor |
+|  Particles | Interactive particle physics hero |
+|  3D Village | Three.js animated village scene |
+|  Complaint System | File, track, manage complaints |
+|  AI Assistant | Claude-powered panchayat assistant |
+|  Pradhan Portal | Password-protected dashboard |
+|  CSV Export | Download all complaints as spreadsheet |
+|  Mobile Ready | Works on all screen sizes |
+|  Real Map | Actual Ghazipur/Duhia coordinates |
 
 ---
 
-## 🔐 Pradhan Portal
+##  Pradhan Portal
 
-- **URL:** Click "प्रधान पोर्टल" button in navbar
-- **Default Password:** `duhia2024`
+- **URL:** Click "प्रधान पोर्टल" button in navbar`
 - **Change password** in `js/config.js` → `portalPassword`
 - **Features:** View all complaints, mark as resolved, export CSV
 
 ---
 
-## 📍 Map Coordinates
+## Map Coordinates
 
 Duhia village is located at:
 - **Latitude:** 25.5668°N
@@ -137,7 +136,7 @@ To update: change `map.lat` and `map.lng` in `js/config.js`
 
 ---
 
-## 🆘 Support
+##  Support
 
 For technical issues, contact the developer.  
-For panchayat matters: **Pradhan Vineet Rai — 📞 8303049123**
+For panchayat matters: **Pradhan Vineet Rai —  8303049123**
